@@ -1,0 +1,31 @@
+{
+    "expo": {
+        "name": "panapo-mb",
+        "slug": "panapo-mb",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "bundleIdentifier": "utez.edu.mx",
+            "buildNumber": "1.0.0"
+        },
+        "android": {
+            "package": "utez.edu.mx"
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "description": "Proyecto escolar correspondiente al 5to cuatrimestre"
+    }
+}

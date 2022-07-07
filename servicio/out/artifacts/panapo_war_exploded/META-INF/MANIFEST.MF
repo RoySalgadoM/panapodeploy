@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: ROY
+Build-Jdk: version 1.8.0_231
+Implementation-Title: panapo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: mx.edu.utez
+Main-Class: ${start-class}
+

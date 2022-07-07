@@ -1,0 +1,23 @@
+/* Colores institucionales */
+.back-blue{
+    background-color: #042b61;
+}
+
+.back-green{
+    background-color: #049474;
+}
+
+.font-blue{
+    color: #042b61;
+}
+
+.font-green{
+    color: #049474;
+}
+
+/* Estilos generales */
+
+.font-white{
+    color: white;
+}
+
